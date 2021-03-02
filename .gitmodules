@@ -1,0 +1,3 @@
+[submodule "service-offres-moreau-mullie"]
+	path = service-offres-moreau-mullie
+	url = https://github.com/miage-lille/service-offres-moreau-mullie
