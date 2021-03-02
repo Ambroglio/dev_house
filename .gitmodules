@@ -1,3 +1,9 @@
 [submodule "service-offres-moreau-mullie"]
 	path = service-offres-moreau-mullie
 	url = https://github.com/miage-lille/service-offres-moreau-mullie
+[submodule "my-profile-moreau-mullie"]
+	path = my-profile-moreau-mullie
+	url = git@github.com:miage-lille/my-profile-moreau-mullie.git
+[submodule "auth-service-moreau-mullie"]
+	path = auth-service-moreau-mullie
+	url = git@github.com:miage-lille/auth-service-moreau-mullie.git
