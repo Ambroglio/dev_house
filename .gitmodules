@@ -1,9 +1,9 @@
-[submodule "auth-service-moreau-mullie"]
-	path = auth-service-moreau-mullie
-	url = https://github.com/Ambroglio/auth-service-moreau-mullie
-[submodule "service-offres-moreau-mullie"]
-	path = service-offres-moreau-mullie
-	url = https://github.com/Ambroglio/service-offres-moreau-mullie
-[submodule "my-profile-moreau-mullie"]
-	path = my-profile-moreau-mullie
-	url = https://github.com/Ambroglio/my-profile-moreau-mullie
+[submodule "dev_house_auth_service"]
+	path = dev_house_auth_service
+	url = https://github.com/Ambroglio/dev_house_auth_service
+[submodule "dev_house_offer_service"]
+	path = dev_house_offer_service
+	url = https://github.com/Ambroglio/dev_house_offer_service
+[submodule "dev_house_front"]
+	path = dev_house_front
+	url = https://github.com/Ambroglio/dev_house_front
